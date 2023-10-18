@@ -1,0 +1,1095 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "caesar",
+      "request": "launch",
+      "mainClass": "caesar",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "lowercase",
+      "request": "launch",
+      "mainClass": "lowercase",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "stringpalindrome",
+      "request": "launch",
+      "mainClass": "stringpalindrome",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "minnojumps",
+      "request": "launch",
+      "mainClass": "minnojumps",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "h",
+      "request": "launch",
+      "mainClass": "problemss.h",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "jj",
+      "request": "launch",
+      "mainClass": "jj",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Attach",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": "<debug port of the debuggee>"
+    },
+    {
+      "type": "java",
+      "name": "linkedlistc",
+      "request": "launch",
+      "mainClass": "recursion.linkedlistc",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch nqueens",
+      "request": "launch",
+      "mainClass": "recursion.nqueens",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch nqueen",
+      "request": "launch",
+      "mainClass": "recursion.nqueen",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch maxnoofwords",
+      "request": "launch",
+      "mainClass": "recursion.maxnoofwords",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch dicerollstarget",
+      "request": "launch",
+      "mainClass": "recursion.dicerollstarget",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch lettercombinationsofkeypad",
+      "request": "launch",
+      "mainClass": "recursion.lettercombinationsofkeypad",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch medianofsortedarrays",
+      "request": "launch",
+      "mainClass": "recursion.medianofsortedarrays",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch mem",
+      "request": "launch",
+      "mainClass": "recursion.mem",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch vowels",
+      "request": "launch",
+      "mainClass": "recursion.vowels",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch groupanagrams",
+      "request": "launch",
+      "mainClass": "recursion.groupanagrams",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch perfectsquares",
+      "request": "launch",
+      "mainClass": "recursion.perfectsquares",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch nthuglyno",
+      "request": "launch",
+      "mainClass": "recursion.nthuglyno",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch griduniquepaths",
+      "request": "launch",
+      "mainClass": "recursion.griduniquepaths",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch rotateimageormatrix",
+      "request": "launch",
+      "mainClass": "recursion.rotateimageormatrix",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch majorityele2",
+      "request": "launch",
+      "mainClass": "recursion.majorityele2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch powxn",
+      "request": "launch",
+      "mainClass": "recursion.powxn",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch search2dmatrixsortedeachrow",
+      "request": "launch",
+      "mainClass": "recursion.search2dmatrixsortedeachrow",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch search2dmatrixrowssorted",
+      "request": "launch",
+      "mainClass": "recursion.search2dmatrixrowssorted",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch pascaltriangle",
+      "request": "launch",
+      "mainClass": "recursion.pascaltriangle",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch setzerosmatrix",
+      "request": "launch",
+      "mainClass": "recursion.setzerosmatrix",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch kandanealgomaxsubarray",
+      "request": "launch",
+      "mainClass": "recursion.kandanealgomaxsubarray",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch missingandrepeating",
+      "request": "launch",
+      "mainClass": "recursion.missingandrepeating",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch xor",
+      "request": "launch",
+      "mainClass": "recursion.xor",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch containerwithmost",
+      "request": "launch",
+      "mainClass": "recursion.containerwithmost",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch trappingwater",
+      "request": "launch",
+      "mainClass": "recursion.trappingwater",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch merge2sortedarray",
+      "request": "launch",
+      "mainClass": "recursion.merge2sortedarray",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch tripletszero",
+      "request": "launch",
+      "mainClass": "recursion.tripletszero",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch ratmaze",
+      "request": "launch",
+      "mainClass": "recursion.ratmaze",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch validpalindrome",
+      "request": "launch",
+      "mainClass": "recursion.validpalindrome",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestsubstringwithoutrepchar",
+      "request": "launch",
+      "mainClass": "dp.longestsubstringwithoutrepchar",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch lenlastword",
+      "request": "launch",
+      "mainClass": "recursion.lenlastword",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch removeduplicates",
+      "request": "launch",
+      "mainClass": "recursion.removeduplicates",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch squareroot",
+      "request": "launch",
+      "mainClass": "recursion.squareroot",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch validparatheses",
+      "request": "launch",
+      "mainClass": "recursion.validparatheses",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch manachers",
+      "request": "launch",
+      "mainClass": "recursion.manachers",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch removedigittomaximize",
+      "request": "launch",
+      "mainClass": "recursion.removedigittomaximize",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch dimensbox",
+      "request": "launch",
+      "mainClass": "recursion.dimensbox",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch allpermutations3",
+      "request": "launch",
+      "mainClass": "recursion.allpermutations3",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch allpermutations",
+      "request": "launch",
+      "mainClass": "recursion.allpermutations",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch allpermutations2",
+      "request": "launch",
+      "mainClass": "recursion.allpermutations2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch twosum",
+      "request": "launch",
+      "mainClass": "recursion.twosum",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch nearesttenmultuple",
+      "request": "launch",
+      "mainClass": "recursion.nearesttenmultuple",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch matrixchainmultiplication",
+      "request": "launch",
+      "mainClass": "dp.matrixchainmultiplication",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch numberoflongestincresubseq",
+      "request": "launch",
+      "mainClass": "dp.numberoflongestincresubseq",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestbitonicsubsequence",
+      "request": "launch",
+      "mainClass": "dp.longestbitonicsubsequence",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestsstringchain",
+      "request": "launch",
+      "mainClass": "dp.longestsstringchain",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestdivisiblesubset",
+      "request": "launch",
+      "mainClass": "dp.longestdivisiblesubset",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch printlongestincrsubse",
+      "request": "launch",
+      "mainClass": "dp.printlongestincrsubse",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestincreasingsubsequences",
+      "request": "launch",
+      "mainClass": "dp.longestincreasingsubsequences",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch stockbuyandsell5",
+      "request": "launch",
+      "mainClass": "dp.stockbuyandsell5",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch stockbuyandsell4transno",
+      "request": "launch",
+      "mainClass": "dp.stockbuyandsell4transno",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch stockbuyandsell4",
+      "request": "launch",
+      "mainClass": "dp.stockbuyandsell4",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch stockbuyandsell3",
+      "request": "launch",
+      "mainClass": "dp.stockbuyandsell3",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch stockbuyandsell2",
+      "request": "launch",
+      "mainClass": "dp.stockbuyandsell2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch stockbuyandsell1",
+      "request": "launch",
+      "mainClass": "dp.stockbuyandsell1",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch wildcardmatching",
+      "request": "launch",
+      "mainClass": "dp.wildcardmatching",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch substrin",
+      "request": "launch",
+      "mainClass": "recursion.substrin",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch editdistance",
+      "request": "launch",
+      "mainClass": "dp.editdistance",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch distinctsubsequences",
+      "request": "launch",
+      "mainClass": "dp.distinctsubsequences",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch shortestcommonsupersequence",
+      "request": "launch",
+      "mainClass": "dp.shortestcommonsupersequence",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch mininsertdeletiontoconvertastring",
+      "request": "launch",
+      "mainClass": "dp.mininsertdeletiontoconvertastring",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch mininsertionstomakepalindrome",
+      "request": "launch",
+      "mainClass": "dp.mininsertionstomakepalindrome",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestpalidromicsubsequences",
+      "request": "launch",
+      "mainClass": "dp.longestpalidromicsubsequences",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch palidromepartition",
+      "request": "launch",
+      "mainClass": "recursion.palidromepartition",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestcommonsubstring",
+      "request": "launch",
+      "mainClass": "dp.longestcommonsubstring",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch printlcsusingdp",
+      "request": "launch",
+      "mainClass": "dp.printlcsusingdp",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch printlongestcommonsubs",
+      "request": "launch",
+      "mainClass": "dp.printlongestcommonsubs",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestcommonsubsequences",
+      "request": "launch",
+      "mainClass": "dp.longestcommonsubsequences",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch printsubsequences",
+      "request": "launch",
+      "mainClass": "dp.printsubsequences",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch rodcutting",
+      "request": "launch",
+      "mainClass": "dp.rodcutting",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch knapsack2",
+      "request": "launch",
+      "mainClass": "dp.knapsack2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch coinchange2",
+      "request": "launch",
+      "mainClass": "dp.coinchange2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch minimumcoins",
+      "request": "launch",
+      "mainClass": "recursion.minimumcoins",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch minimumcoins",
+      "request": "launch",
+      "mainClass": "dp.minimumcoins",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch knapsack",
+      "request": "launch",
+      "mainClass": "dp.knapsack",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch countsubsetsofdiff",
+      "request": "launch",
+      "mainClass": "dp.countsubsetsofdiff",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch countsubsetsofsum",
+      "request": "launch",
+      "mainClass": "dp.countsubsetsofsum",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch partitionset2subsets",
+      "request": "launch",
+      "mainClass": "dp.partitionset2subsets",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsetsum2",
+      "request": "launch",
+      "mainClass": "recursion.subsetsum2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsequesesprob",
+      "request": "launch",
+      "mainClass": "recursion.subsequesesprob",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsequencessum",
+      "request": "launch",
+      "mainClass": "recursion.subsequencessum",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch combinationsum2",
+      "request": "launch",
+      "mainClass": "recursion.combinationsum2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch combinationsum1",
+      "request": "launch",
+      "mainClass": "recursion.combinationsum1",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsetsum",
+      "request": "launch",
+      "mainClass": "dp.subsetsum",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch alicebobchocolate",
+      "request": "launch",
+      "mainClass": "dp.alicebobchocolate",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Maximumfallingpathsum",
+      "request": "launch",
+      "mainClass": "dp.Maximumfallingpathsum",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch traingleminimumpath",
+      "request": "launch",
+      "mainClass": "dp.traingleminimumpath",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch minimumcostpath",
+      "request": "launch",
+      "mainClass": "dp.minimumcostpath",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch mazeblockage",
+      "request": "launch",
+      "mainClass": "dp.mazeblockage",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch totaluniquepaths",
+      "request": "launch",
+      "mainClass": "dp.totaluniquepaths",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch ratmaze2",
+      "request": "launch",
+      "mainClass": "recursion.ratmaze2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch ninjaforloop",
+      "request": "launch",
+      "mainClass": "dp.ninjaforloop",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch ninja",
+      "request": "launch",
+      "mainClass": "dp.ninja",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch houserobber",
+      "request": "launch",
+      "mainClass": "dp.houserobber",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch maxnonadjsubusingforloop",
+      "request": "launch",
+      "mainClass": "dp.maxnonadjsubusingforloop",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch maximumnonadjascentsubsequences",
+      "request": "launch",
+      "mainClass": "dp.maximumnonadjascentsubsequences",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch kfrogjumps",
+      "request": "launch",
+      "mainClass": "dp.kfrogjumps",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch frogjump",
+      "request": "launch",
+      "mainClass": "dp.frogjump",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch climbingstairs",
+      "request": "launch",
+      "mainClass": "dp.climbingstairs",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch fibospace",
+      "request": "launch",
+      "mainClass": "dp.fibospace",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch linkedlist",
+      "request": "launch",
+      "mainClass": "recursion.linkedlist",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch fibo",
+      "request": "launch",
+      "mainClass": "fibo",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch reversestring",
+      "request": "launch",
+      "mainClass": "mywebsite.reversestring",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch reverseit",
+      "request": "launch",
+      "mainClass": "reverseit",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch kpermutations",
+      "request": "launch",
+      "mainClass": "kpermutations",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch allpermutations2",
+      "request": "launch",
+      "mainClass": "allpermutations2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch ratmaze2",
+      "request": "launch",
+      "mainClass": "ratmaze2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch palidromepartition",
+      "request": "launch",
+      "mainClass": "palidromepartition",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch allpermutations3",
+      "request": "launch",
+      "mainClass": "allpermutations3",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsetsum2",
+      "request": "launch",
+      "mainClass": "subsetsum2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch subsequencessum",
+      "request": "launch",
+      "mainClass": "subsequencessum",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch combinationsum2",
+      "request": "launch",
+      "mainClass": "combinationsum2",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch combinationsum1",
+      "request": "launch",
+      "mainClass": "combinationsum1",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch allpermutations",
+      "request": "launch",
+      "mainClass": "allpermutations",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch nqueen",
+      "request": "launch",
+      "mainClass": "nqueen",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch longestsub",
+      "request": "launch",
+      "mainClass": "longestsub",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch fratcion",
+      "request": "launch",
+      "mainClass": "fratcion",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch lookandsay",
+      "request": "launch",
+      "mainClass": "lookandsay",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch miles",
+      "request": "launch",
+      "mainClass": "miles",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch crc",
+      "request": "launch",
+      "mainClass": "crc",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch sumnumbers",
+      "request": "launch",
+      "mainClass": "sumnumbers",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch josephus",
+      "request": "launch",
+      "mainClass": "josephus",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch nqueens",
+      "request": "launch",
+      "mainClass": "nqueens",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch minimumcoins",
+      "request": "launch",
+      "mainClass": "minimumcoins",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch policetheif",
+      "request": "launch",
+      "mainClass": "policetheif",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch weightedsub",
+      "request": "launch",
+      "mainClass": "weightedsub",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch mod11",
+      "request": "launch",
+      "mainClass": "mod11",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch distinctyrs",
+      "request": "launch",
+      "mainClass": "distinctyrs",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch dirtychar",
+      "request": "launch",
+      "mainClass": "dirtychar",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch kmp",
+      "request": "launch",
+      "mainClass": "kmp",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch movehyphens",
+      "request": "launch",
+      "mainClass": "movehyphens",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch frequencychar",
+      "request": "launch",
+      "mainClass": "frequencychar",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch mergesort",
+      "request": "launch",
+      "mainClass": "mergesort",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch stringdiff",
+      "request": "launch",
+      "mainClass": "stringdiff",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch manchers",
+      "request": "launch",
+      "mainClass": "manchers",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch ascii",
+      "request": "launch",
+      "mainClass": "ascii",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch robin",
+      "request": "launch",
+      "mainClass": "robin",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch substrin",
+      "request": "launch",
+      "mainClass": "substrin",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch match",
+      "request": "launch",
+      "mainClass": "match",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch movezeros",
+      "request": "launch",
+      "mainClass": "movezeros",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch selection",
+      "request": "launch",
+      "mainClass": "selection",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch binarysort",
+      "request": "launch",
+      "mainClass": "binarysort",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch mergesorta",
+      "request": "launch",
+      "mainClass": "mergesorta",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch linear",
+      "request": "launch",
+      "mainClass": "linear",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "type": "java",
+      "name": "Launch Quick",
+      "request": "launch",
+      "mainClass": "Quick",
+      "projectName": "Vs code_17426f5"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "f:/Vs code",
+      "program": "f:/Vs code/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
